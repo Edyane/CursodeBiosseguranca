@@ -27,7 +27,7 @@ body {
     height: 500px;
     background: #ccc;
     text-align: center;
-    line-height: 300px;
+    line-height: 50px;
 }
 
 a.control_prev, a.control_next {
