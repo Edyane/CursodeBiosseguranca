@@ -24,6 +24,10 @@ h1 {
     text-align: center;
 }
 
+.subtitle {
+    color: #006633;
+}
+
 .space {
     padding-top: 10px;
 }
@@ -42,7 +46,7 @@ h1 {
 }
 
 .org-space {
-    padding-top: 45px;
+    padding-top: 35px;
 }
 
 #slider {
