@@ -41,6 +41,10 @@ h1 {
     font-family: 'Noto Sans', sans-serif;    
 }
 
+.org-space {
+    padding-top: 45px;
+}
+
 #slider {
     position: relative;
     overflow: hidden;
