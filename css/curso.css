@@ -25,7 +25,7 @@ h1 {
 }
 
 .space {
-    padding-top: 10px;;
+    padding-top: 10px;
 }
 
 .obj-list {
@@ -34,6 +34,11 @@ h1 {
     font-size: 16px;
     font-family: 'Noto Sans', sans-serif;
     font-weight: bold;
+}
+
+.paper-text {
+    font-size: 17px;
+    font-family: 'Noto Sans', sans-serif;    
 }
 
 #slider {
